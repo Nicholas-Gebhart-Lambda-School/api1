@@ -1,0 +1,23 @@
+{
+  "name": "api1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "meme.js",
+  "scripts": {
+    "wmdb": "nodemon meme.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicholas-Gebhart-Lambda-School/api1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nicholas-Gebhart-Lambda-School/api1/issues"
+  },
+  "homepage": "https://github.com/Nicholas-Gebhart-Lambda-School/api1#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
